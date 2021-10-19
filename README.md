@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="KhalilCharef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="KhalilCharef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/facebook.svg" />][facebook]
+[<img align="left" alt="KhalilCharef" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Facebook_icon_%28black%29.svg/768px-Facebook_icon_%28black%29.svg.png" />][facebook]
 [<img align="left" alt="KhalilCharef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="KhalilCharef" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/instagram.svg" />][instagram]
 
